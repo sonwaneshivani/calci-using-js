@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+    background-color: rgb(161, 222, 231);
+}
+.heading{
+    margin-top: 30px;
+    text-align: center;
+}
+#row1,.srch{
+    margin-top: 50px;
+}
+.row,.srch{
+    margin-left: 36%;
+}
+.button{
+    height: 70px;
+    width: 70px;
+    margin-left: 1px;
+    margin-right: 5px;
+    margin-bottom: 2%;
+}
+.srch{
+    width: 330px;
+    height: 41px;
+    outline-color: rgb(67, 3, 38);
+    border-radius: 2px;
+}
+.srch:hover{
+    border-radius: 7px;
+}
